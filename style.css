@@ -1,0 +1,49 @@
+body{
+    background-image: url("img/bg2.jpg");
+    
+}
+h3{
+    margin: 5px;
+    font-size: 25px;
+}
+.form{
+    width: 300px;
+    background-color: rgba(9, 10, 10, 0.4);
+    margin: 200px auto;
+    border: 2px solid yellow;
+    color: #fff;
+}
+form input{
+    width: 270px;
+    display: flex;
+    margin: 10px auto;
+    font-size: 14px;
+    border: 1px solid #fff;
+    background-color: transparent;
+    padding: 5px;
+    font-weight: bold;
+}
+form label{
+    font-size: 18px;
+}
+.form form{
+    text-align: center;
+}
+.login{
+    cursor: pointer;
+    font-size: 15px;
+    color: white;
+    background-color: red;
+    width: 135px;
+    border: black;
+    box-shadow: 4px 4px 25px green;
+    justify-content: center;
+}
+form a{
+    text-decoration: none;
+    color: #fff;
+
+}
+form a:hover{
+    text-decoration: underline;
+}
